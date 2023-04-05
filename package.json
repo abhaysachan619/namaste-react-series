@@ -1,0 +1,33 @@
+{
+  "name": "food_app",
+  "version": "1.0.0",
+  "description": "This is Namaste React",
+ 
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhaysachan619/namaste-react-series.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Abhay Sachan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhaysachan619/namaste-react-series/issues"
+  },
+  "homepage": "https://github.com/abhaysachan619/namaste-react-series#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 version"
+  ]
+}
